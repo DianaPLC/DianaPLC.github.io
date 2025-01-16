@@ -1,0 +1,24 @@
+$bkgrnd: #2D2F2E;
+$theme-light: #e8fef9;
+$theme-dark: #00a98d;
+$highlight: #34504a;
+
+@font-face {
+  font-family: 'Gantari';
+  src: url('../public/fonts/Gantari/Gantari-VariableFont_wght.ttf');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gantari';
+  src: url('../public/fonts/Gantari/Gantari-Italic-VariableFont_wght.ttf');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Doto';
+  src: url('../public/fonts/Doto/Doto-VariableFont_ROND_wght.ttf');
+}
+
+$body-font: 'Gantari', Helvetica, sans-serif;
+$header-font: 'Doto', Helvetica, sans-serif;
