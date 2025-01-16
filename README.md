@@ -9,6 +9,7 @@ This repo holds the code for my personal website on GitHub pages, but is also a 
 - [x] Basic styling and content for 1 page
 - [x] Simple test coverage
 - [ ] Update "About" section
+- [ ] Add skills, MS study details
 - [ ] Add portfolio view
 - [ ] Add show/hide functionality to experience section
 - [ ] Add contact form
