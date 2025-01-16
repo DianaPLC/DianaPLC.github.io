@@ -1,0 +1,10 @@
+@for (experience of experienceList; track $index) {
+  <ul class="experience-block">
+    <li class="experience-head">
+      <span class="company">{{ experience.company }}</span>
+      <span class="dates">{{ experience.start }} - {{ experience.end }}</span>
+      <span class="position">{{ experience.position }}</span>
+    </li>
+    <ul class="experience-body" [innerHtml]="experience.body"></ul>
+  </ul>
+}
