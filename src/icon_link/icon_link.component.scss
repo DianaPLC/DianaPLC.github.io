@@ -31,6 +31,16 @@ a.header-link {
   font-family: $header-font;
   height: 3rem;
   float: right;
+
+  @media screen and (max-width: 355px) {
+    span {
+      display: none;
+    }
+
+    img {
+      height: 1.5rem;
+    }
+  }
 }
 
 a.home-link {
@@ -41,6 +51,12 @@ a.home-link {
 
   img {
     height: 3rem;
+  }
+
+  @media screen and (max-width: 500px) {
+    span {
+      display: none;
+    }
   }
 }
 
