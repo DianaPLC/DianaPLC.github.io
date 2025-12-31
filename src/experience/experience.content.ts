@@ -42,6 +42,17 @@ psExperiencesString += `
 
 export const experiences = [
   new Experience(
+    'April 2024',
+    'Present',
+    'Senior Full Stack Engineer',
+    'Community Energy Labs',
+    `
+      <li>Maintain, improve, and expand a microservices-based system that integrates machine learning pipelines, real-time embedded device software, IoT networks, and user interfaces</li>
+      <li>Gather requirements, design software architecture, and define implementation stages for new features and major upgrades</li>
+      <li>Lead developer on an architectural restructure and parallelization project that reduced the time for the CEL machine learning algorithm to reach a solution by 45% and reduced memory usage of core systems by 42%</li>
+    `
+  ),
+  new Experience(
     'June 2024',
     'December 2024',
     "Master's of Science in Computer Science",
