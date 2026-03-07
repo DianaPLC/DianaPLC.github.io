@@ -18,6 +18,6 @@ describe('ExperienceComponent', () => {
     const fixture = TestBed.createComponent(ExperienceComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('li')?.textContent).toContain('Hopkins');
+    expect(compiled.querySelector('li')?.textContent).toContain('Community Energy Labs');
   });
 });
