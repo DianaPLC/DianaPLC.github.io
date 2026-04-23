@@ -10,6 +10,6 @@ import { ExperienceComponent } from '../experience/experience.component';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  fullName = 'Diana Patton-LoveCooksey';
+  fullName = 'D Patton-LoveCooksey';
   title = 'Software Engineer';
 }
