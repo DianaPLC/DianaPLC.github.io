@@ -1,4 +1,4 @@
-# DianaPLC GitHub Pages Site
+# DeanPLC GitHub Pages Site
 
 > Based on code initially generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.7.
 
